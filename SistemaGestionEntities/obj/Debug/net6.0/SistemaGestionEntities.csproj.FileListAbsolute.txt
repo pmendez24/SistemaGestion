@@ -1,0 +1,12 @@
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Incluit\Documents\C sharp\CoderHouse\FINAL\ProyectoFinal\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
